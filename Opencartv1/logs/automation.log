@@ -1,0 +1,8 @@
+20:19:25.035 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+20:19:25.708 [main] INFO  testBase.BaseClass - clicked on Register Link
+20:19:25.711 [main] INFO  testBase.BaseClass - Providing customer deatils
+20:19:27.274 [main] INFO  testBase.BaseClass - validating expected message
+20:19:27.316 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Finished******
+20:19:30.813 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Started******
+20:19:30.884 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+20:19:32.267 [main] INFO  testBase.BaseClass - Login successful.

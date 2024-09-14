@@ -1,0 +1,63 @@
+08:24:44.072 [main] INFO  testBase.BaseClass - Providing customer deatils
+08:24:45.958 [main] INFO  testBase.BaseClass - validating expected message
+08:24:46.016 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Finished******
+08:24:51.131 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Started******
+08:24:51.219 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+08:24:52.799 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Finished******
+08:27:02.150 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Started******
+08:27:02.250 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+08:27:02.915 [main] INFO  testBase.BaseClass - clicked on Register Link
+08:27:02.918 [main] INFO  testBase.BaseClass - Providing customer deatils
+08:27:04.490 [main] INFO  testBase.BaseClass - validating expected message
+08:27:04.541 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Finished******
+08:27:09.172 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Started******
+08:27:09.257 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+08:27:11.007 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Finished******
+08:29:23.950 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Started******
+08:29:24.052 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+08:29:24.724 [main] INFO  testBase.BaseClass - clicked on Register Link
+08:29:24.728 [main] INFO  testBase.BaseClass - Providing customer deatils
+08:29:26.670 [main] INFO  testBase.BaseClass - validating expected message
+08:29:26.727 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Finished******
+08:29:32.232 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Started******
+08:29:32.319 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+08:29:34.001 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Finished******
+15:09:03.272 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Started******
+15:09:03.403 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:09:04.203 [main] INFO  testBase.BaseClass - clicked on Register Link
+15:09:04.215 [main] INFO  testBase.BaseClass - Providing customer deatils
+15:09:06.258 [main] INFO  testBase.BaseClass - validating expected message
+15:09:06.322 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Finished******
+15:09:11.447 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Started******
+15:09:11.534 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:09:13.528 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Finished******
+15:12:44.435 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Started******
+15:12:44.559 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:12:45.424 [main] INFO  testBase.BaseClass - clicked on Register Link
+15:12:45.430 [main] INFO  testBase.BaseClass - Providing customer deatils
+15:12:47.468 [main] INFO  testBase.BaseClass - validating expected message
+15:12:47.518 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Finished******
+15:12:51.900 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Started******
+15:12:52.021 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:12:53.799 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Finished******
+15:18:55.445 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Started******
+15:18:55.592 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:18:56.337 [main] INFO  testBase.BaseClass - clicked on Register Link
+15:18:56.344 [main] INFO  testBase.BaseClass - Providing customer deatils
+15:18:58.688 [main] INFO  testBase.BaseClass - validating expected message
+15:18:58.743 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Finished******
+15:19:03.628 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Started******
+15:19:03.718 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:19:05.125 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Finished******
+15:24:59.777 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Started******
+15:24:59.969 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:25:00.750 [main] INFO  testBase.BaseClass - clicked on Register Link
+15:25:00.766 [main] INFO  testBase.BaseClass - Providing customer deatils
+15:25:03.726 [main] INFO  testBase.BaseClass - validating expected message
+15:25:03.786 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Finished******
+15:25:07.975 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Started******
+15:25:08.073 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:25:09.623 [main] INFO  testBase.BaseClass - ****** TC002_LoginTest Finished******
+15:28:16.672 [main] INFO  testBase.BaseClass - ****** TC001_AccountRegTest Started******
+15:28:16.788 [main] INFO  testBase.BaseClass - clicked on Myaccount Link
+15:28:17.647 [main] INFO  testBase.BaseClass - clicked on Register Link

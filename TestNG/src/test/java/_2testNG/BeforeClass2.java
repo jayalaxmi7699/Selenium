@@ -16,6 +16,6 @@ public class BeforeClass2 {
 	@BeforeTest
 //	(priority = 2)
 	public void xyz()  {
-		System.out.println("before test......");
+		System.out.println("before every test methods......");
 	}
 }
